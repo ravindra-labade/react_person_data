@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "sr": "1",
+      "name": "Ravi",
+      "age": "29",
+      "gender": "Male",
+      "dob": "1994-11-06",
+      "id": 1
+    },
+    {
+      "sr": "2",
+      "name": "Rutuja",
+      "age": "27",
+      "gender": "Female",
+      "dob": "1997-07-27",
+      "id": 2
+    }
+  ]
+}
